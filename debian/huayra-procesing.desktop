@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=huayra-procesing
+Comment=Comment
+Exec=/usr/bin/huayra-procesing
+Terminal=false
+Type=Application
+Icon=huayra-procesing
+Categories=GNOME;GTK;Huayra;Network;

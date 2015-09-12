@@ -1,0 +1,4 @@
+dist/* usr/share/huayra-procesing/dist
+bin/huayra-procesing usr/bin/
+debian/huayra-procesing.desktop /usr/share/applications
+debian/huayra-procesing.svg /usr/share/icons/hicolor/scalable/apps
