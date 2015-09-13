@@ -5,3 +5,29 @@ html, body {
 a.active {
   font-weight: bold;
 }
+
+button {
+  padding: 10px;
+  margin: 5px;
+  font-size: 20px;
+}
+
+.button-content {
+  display: inline-block;
+  text-align: center;
+  border: 1px solid gray;
+  padding: 10px;
+}
+
+.bar-container {
+  border: 1px solid black;
+  width: 200px;
+  height: 50px;
+  margin-top: 1em;
+}
+
+.bar-progress {
+  display: inline-block;
+  background-color: blue;
+  height: 50px;
+}
