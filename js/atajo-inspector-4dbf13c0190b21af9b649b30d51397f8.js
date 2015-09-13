@@ -1,0 +1,1 @@
+var is_nodewebkit="object"==typeof process;is_nodewebkit&&(window.onkeypress=function(e){105===e.which&&(e.ctrlKey||e.shiftKey||e.metaKey)&&nodeRequire("nw.gui").Window.get().showDevTools()});
